@@ -1,0 +1,22 @@
+{
+  "name": "27102025",
+  "version": "1.0.0",
+  "description": "Holaaaa",
+  "main": "app.js",
+  "scripts": {
+    "test": "st"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Axel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
