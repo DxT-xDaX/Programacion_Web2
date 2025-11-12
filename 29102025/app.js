@@ -6,6 +6,8 @@ const port = 3056;
 
 const routes = require('./routes');
 
+app.use(express.static('./public')); 
+
 app.use('/', routes);
 
 app.listen(port, () => {
